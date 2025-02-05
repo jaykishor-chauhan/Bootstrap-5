@@ -22,6 +22,48 @@ function Tutorial05() {
                 </div>
 
             </div>
+            <hr />
+            <div className="containar">
+                <div>
+                    <h1 className='fw-bold text-danger text-center my-5'>Lorem Ipsum</h1>
+                </div>
+                <div className="row gap-3 justify-content-center m-2">
+                    <div className="col-lg-3 col-md-5 border border-primary p-4">
+                        <p className='display-6'>Hi, this is Jaykishor.</p>
+                        <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                    <div className="col-lg-3 col-md-5 border border-primary p-4">
+                        <p className='display-6'>Hi, this is Jaykishor.</p>
+                        <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                    <div className="col-lg-3 col-md-5 border border-primary p-4">
+                        <p className='display-6'>Hi, this is Jaykishor.</p>
+                        <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                    <div className="col-lg-4 col-md-5 border border-primary p-4">
+                        <p className='display-6'>Hi, this is Jaykishor.</p>
+                        <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                    <div className="col-lg-4 col-md-5 border border-primary p-4">
+                        <p className='display-6'>Hi, this is Jaykishor.</p>
+                        <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    </div>
+                </div>
+                <hr />
+
+                <div className="containar-fluid">
+                    <div className="row row-cols-1 row-cols-sm-3 gap-3 justify-content-center m-2">
+                        <div className="col p-4 border border-danger">
+                            <p className="display-4">Autosoft</p>
+                            <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        </div>
+                        <div className="col p-4 border border-danger">
+                            <p className="display-4">Autosoft</p>
+                            <p className="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </section>
     )
