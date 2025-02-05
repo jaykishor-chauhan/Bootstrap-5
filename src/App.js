@@ -1,5 +1,6 @@
 import './App.css';
 // import Grid from './Grid';
+import Navbar from './Navbar'
 import Tutorial05 from './Tutorial05';
 // import Container from './Container';
 // import Button from './Button';
@@ -9,6 +10,7 @@ import Tutorial05 from './Tutorial05';
 function App() {
   return (
     <div className="">
+      <Navbar/>
       {/* <Tutorial01 /> */}
       {/* <Button/> */}
       {/* <Tutorial03/> */}
