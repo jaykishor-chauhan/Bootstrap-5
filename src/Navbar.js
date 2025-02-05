@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
     return (
         // navbar
-        <div className='navbar navbar navbar-expand-lg navbar-light bg-warning p-3'>
+        <div className='navbar sticky-top navbar-expand-lg navbar-light bg-warning p-3'>
             <div className="container-xxl">
                 <a href="/company" className="navbar-brand">
                     <span className="fw-bold text-danger">
