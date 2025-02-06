@@ -3,6 +3,7 @@ import './App.css';
 // import Grid from './Grid';
 import Navbar from './Navbar'
 import PricingCard from './PricingCard';
+import Reviews from './Reviews';
 import Tutorial05 from './Tutorial05';
 // import Container from './Container';
 // import Button from './Button';
@@ -21,6 +22,7 @@ function App() {
       <Tutorial05/>
       <PricingCard/>
       <Accodians/>
+      <Reviews/>
     </div>
   );
 }
