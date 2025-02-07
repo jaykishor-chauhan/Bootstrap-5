@@ -1,5 +1,6 @@
 import Accodians from './Accodians';
 import './App.css';
+import ContactUs from './ContactUs';
 // import Grid from './Grid';
 import Navbar from './Navbar'
 import PricingCard from './PricingCard';
@@ -23,6 +24,7 @@ function App() {
       <PricingCard/>
       <Accodians/>
       <Reviews/>
+      <ContactUs />
     </div>
   );
 }
